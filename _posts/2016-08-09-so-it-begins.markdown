@@ -12,7 +12,7 @@ Alongside my editorial pieces, I have started work a good number of web developm
 
 As for design, I don't consider this blog to be nearly finished. That said, I was so excited to write some content that I just had to make a post. I will continue to work on a suitable, effect design over the coming weeks. Obviously, any constructive criticism is welcomed. Hell, I'll welcome the nonconstructive stuff too.
 
-More about me
+More about me...
 ====================
 
-I'm 23. I started studying programming about 6 months ago and decided to focus my efforts on web development about 2 months after that. Furthermore, I knew I wanted to focus on JavaScript programming. As of now, I am primarily experienced with front-end development tools like HTML, Sass, jQuery, Jekyll, and JavaScript. However, full stack development is my eventual goal. 
+I'm 23. I started studying programming about 6 months ago and decided to focus my efforts on web development about 2 months after that. Furthermore, I knew I wanted to focus on JavaScript programming. As of now, I am primarily experienced with front-end development tools like HTML, Sass, jQuery, Jekyll, and JavaScript. However, full stack development is my eventual goal.
