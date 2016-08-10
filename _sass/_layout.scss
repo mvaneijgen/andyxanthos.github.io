@@ -202,6 +202,7 @@
  */
 
 .post-img {
+  border: 5px solid #FFF;
   max-width: 100%;
   &:hover {
     opacity: 0.5;
@@ -227,6 +228,7 @@
     margin-bottom: $spacing-unit;
 
     h2 {
+        color: #FFF;
         font-size: 32px;
 
         @include media-query($on-laptop) {
@@ -235,6 +237,7 @@
     }
 
     h3 {
+        color: #FFF;
         font-size: 26px;
 
         @include media-query($on-laptop) {
@@ -243,6 +246,7 @@
     }
 
     h4 {
+        color: #FFF;
         font-size: 20px;
 
         @include media-query($on-laptop) {
