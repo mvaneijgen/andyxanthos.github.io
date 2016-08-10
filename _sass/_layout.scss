@@ -200,6 +200,14 @@
 /**
  * Posts
  */
+
+.post-img {
+  max-width: 100%;
+  &:hover {
+    opacity: 0.7;
+  }
+}
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
