@@ -9,10 +9,11 @@
 title: Andy Xanthos
 email: andykxanthos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi there! My Jekyll blog is still under construction.
+  I'm a 23 year old from New York with a passion
+  for web development and cars.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://andykxanthos.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: andyxanthos
 github_username:  andyxanthos
 
 # Build settings
