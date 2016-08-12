@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "And so it Begins!"
 date:   2016-08-09 16:12:34 -0500
 categories: development
