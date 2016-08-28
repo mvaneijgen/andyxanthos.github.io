@@ -11,4 +11,9 @@ Well, it happened again. Just a few days ago I broke yet another Samsung phone, 
 
 People drop things. That's the reality of it. It's rare to meet someone who hasn't cracked a smart phone screen or two. So why is it that with each development cycle, manufacturers seem to design their devices in an increasingly fragile way?
 
-Frustrated, I began my search for a replacement. 
+Frustrated, I began my search for a replacement.
+
+My Options
+===================
+
+After searching around for a little while and deciding on a $400 budget, I narrowed my focus on three options:
