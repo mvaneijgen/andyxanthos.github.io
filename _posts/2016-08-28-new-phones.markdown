@@ -17,3 +17,7 @@ My Options
 ===================
 
 After searching around for a little while and deciding on a $400 budget, I narrowed my focus on three options:
+
+- OnePlus 3 ($400)
+- ZTE Axon 7 ($400)
+- Huawei Honor 5x ($300)
