@@ -21,3 +21,10 @@ After searching around for a little while and deciding on a $400 budget, I narro
 - OnePlus 3 ($400)
 - ZTE Axon 7 ($400)
 - Huawei Honor 5x ($300)
+
+The OnePlus 3 immediately stood out to me. Not only does it have the best specs of the bunch with 6GB of RAM, 64 GB internal storage, and a SnapDragon 820 processor, it also boasts some of the most stunning design of the bunch. Plus, with OnePlus' new Dash Charger, the battery can go from 0-100% in just over an hour under heavy use. So, if the 3 is as great as I'm saying it is, why would I even consider anything else?
+
+ZTE Axon 7
+-----------
+
+The ZTE Axon 7 has one of the best smartphone cameras on the market. Camera quality is extremely important to me as I love to take and edit photos on the go, without always lugging my DSLR around. The Axon 7 has a 21mp rear camera that is more than capable of capturing high quality video and photo.
